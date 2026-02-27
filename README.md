@@ -13,18 +13,8 @@ The project builds a **simple Music Recommendation System** using a small datase
 * Train and save ML models
 * Upload and manage files using GitHub
 
-## 🛠️ Technologies & Tools
-
-### Programming Language
-* Python
-### Libraries
-* Pandas
-* Scikit-learn
-* Joblib
-### Development Tools
-* Jupyter Notebook
-* VS Code
-* Git & GitHub
+## 🛠️ Technologies Used
+👉 See detailed tech stack here: [TECHNOLOGIES.md](TECHNOLOGIES.md)
 
 ## 📂 Project Structure
 
